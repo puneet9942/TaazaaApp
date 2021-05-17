@@ -87,3 +87,4 @@ For any additional information please go to our [**support forum**](https://flat
 ## License
 
 [Mozilla Public License 2.0](LICENSE)
+# TaazaaApp
